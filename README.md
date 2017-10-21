@@ -11,9 +11,9 @@ place.
 You need to have combability for running python file
 
 ## Built With
-python 
-HTML
-BOOTSTRAP
+python, 
+HTML, 
+BOOTSTRAP, 
 css
 
 ## Acknowledgments

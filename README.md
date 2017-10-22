@@ -10,7 +10,7 @@ place.
 
 You need to have combability for running python file
 
-###How to run
+### How to run
 You can run entrainment_centre.py file for the result or there is one entrainment_centre.html file, you can run that file for analysing the final result.
 
 ## Built With

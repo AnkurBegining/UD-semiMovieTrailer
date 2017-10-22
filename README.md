@@ -10,6 +10,9 @@ place.
 
 You need to have combability for running python file
 
+### How to run
+You can run entrainment_centre.py file for the result or there is one fresh_tomatoes.html file, you can run that file for analysing the final result.
+
 ## Built With
 python, 
 HTML, 

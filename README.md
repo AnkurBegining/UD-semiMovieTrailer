@@ -3,8 +3,7 @@
 
 # Project Title
 
-This is my small work for my work given by Udacity. This platform i.e. this site help me to watch my fav movie trailer at single 
-place.
+This is my small work for my work given by Udacity. This platform i.e. this site help me to watch my fav movie trailer at single place.
 
 ### Prerequisites
 
@@ -23,11 +22,13 @@ you can run that file for analysing the final result.
      
 
 ## Built With
-python, 
-HTML, 
-BOOTSTRAP, 
-css
+     
+     (a) python 
+     (b) HTML
+     (c) BOOTSTRAP 
+     (d) css
 
 ## Acknowledgments
+
 I would like to thank my udacity team for encourging me to build this cool feature for my project
 
